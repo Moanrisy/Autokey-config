@@ -1,0 +1,28 @@
+{
+    "type": "script",
+    "description": "get-window-info",
+    "store": {},
+    "modes": [],
+    "usageCount": 0,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": true,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<alt_gr>"
+        ],
+        "hotKey": "t"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}
