@@ -19,6 +19,6 @@ def focus_or_open_vlc():
              break
     else:
         # Dolphin is not running, so open a new instance
-        subprocess.Popen(['/usr/bin/vlc', '--started-from-file', '/mnt/storage/Music/'])
+        subprocess.Popen(['/usr/bin/vlc', '--started-from-file', '/mnt/storage/Music/with-lyric/'])
 
 focus_or_open_vlc()

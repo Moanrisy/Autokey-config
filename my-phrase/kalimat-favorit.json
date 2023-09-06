@@ -1,16 +1,18 @@
 {
-    "type": "script",
-    "description": "launch-vlc-delete-current",
-    "store": {},
+    "type": "phrase",
+    "description": "kalimat-favorit",
     "modes": [
-        3
+        1
     ],
-    "usageCount": 30,
+    "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
+    "matchCase": false,
     "showInTrayMenu": false,
     "abbreviation": {
-        "abbreviations": [],
+        "abbreviations": [
+            "@s"
+        ],
         "backspace": true,
         "ignoreCase": false,
         "immediate": false,
@@ -18,14 +20,12 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [
-            "<alt_gr>",
-            "<shift>"
-        ],
-        "hotKey": "d"
+        "modifiers": [],
+        "hotKey": null
     },
     "filter": {
         "regex": null,
         "isRecursive": false
-    }
+    },
+    "sendMode": "<shift>+<insert>"
 }

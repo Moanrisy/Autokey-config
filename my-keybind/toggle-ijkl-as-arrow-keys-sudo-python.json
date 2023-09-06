@@ -1,11 +1,9 @@
 {
     "type": "script",
-    "description": "launch-vlc-delete-current",
+    "description": "toggle-ijkl-as-arrow-keys-sudo-python",
     "store": {},
-    "modes": [
-        3
-    ],
-    "usageCount": 30,
+    "modes": [],
+    "usageCount": 35,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -18,11 +16,8 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [
-            "<alt_gr>",
-            "<shift>"
-        ],
-        "hotKey": "d"
+        "modifiers": [],
+        "hotKey": null
     },
     "filter": {
         "regex": null,

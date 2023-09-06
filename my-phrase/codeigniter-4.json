@@ -1,31 +1,31 @@
 {
-    "type": "script",
-    "description": "launch-vlc-delete-current",
-    "store": {},
+    "type": "phrase",
+    "description": "codeigniter-4",
     "modes": [
-        3
+        1
     ],
-    "usageCount": 30,
+    "usageCount": 1,
     "prompt": false,
     "omitTrigger": false,
+    "matchCase": false,
     "showInTrayMenu": false,
     "abbreviation": {
-        "abbreviations": [],
+        "abbreviations": [
+            "@ci4"
+        ],
         "backspace": true,
         "ignoreCase": false,
-        "immediate": false,
+        "immediate": true,
         "triggerInside": false,
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [
-            "<alt_gr>",
-            "<shift>"
-        ],
-        "hotKey": "d"
+        "modifiers": [],
+        "hotKey": null
     },
     "filter": {
         "regex": null,
         "isRecursive": false
-    }
+    },
+    "sendMode": "<shift>+<insert>"
 }

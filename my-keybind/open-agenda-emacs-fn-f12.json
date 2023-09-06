@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "launch-vlc-delete-current",
+    "description": "open-agenda-emacs-fn-f12",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 30,
+    "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -18,11 +18,8 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [
-            "<alt_gr>",
-            "<shift>"
-        ],
-        "hotKey": "d"
+        "modifiers": [],
+        "hotKey": "<code148>"
     },
     "filter": {
         "regex": null,

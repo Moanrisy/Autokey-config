@@ -1,9 +1,11 @@
 {
     "type": "script",
-    "description": "test",
+    "description": "custom-resolution",
     "store": {},
-    "modes": [],
-    "usageCount": 54,
+    "modes": [
+        3
+    ],
+    "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -16,8 +18,10 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [],
-        "hotKey": null
+        "modifiers": [
+            "<alt_gr>"
+        ],
+        "hotKey": "-"
     },
     "filter": {
         "regex": null,

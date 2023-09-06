@@ -13,9 +13,9 @@
         "undoUsingBackspace": true,
         "windowDefaultSize": [
             1920,
-            881
+            930
         ],
-        "hPanePosition": 653,
+        "hPanePosition": 656,
         "columnWidths": [
             150,
             50,
@@ -29,16 +29,20 @@
         "scriptGlobals": {},
         "gtkTheme": "classic",
         "gtkExpandedRows": [
-            "1",
-            "0"
+            "2",
+            "3",
+            "1"
         ],
-        "pathLastOpen": "0:12"
+        "pathLastOpen": "1:0"
     },
     "folders": [
-        "/home/mars/.config/autokey/my-keybind"
+        "/home/mars/.config/autokey/my-keybind",
+        "/home/mars/.config/autokey/my-phrase",
+        "/home/mars/.config/autokey/skripsi-phrase",
+        "/home/mars/.config/autokey/code-phrase"
     ],
     "toggleServiceHotkey": {
-        "enabled": true,
+        "enabled": false,
         "modifiers": [
             "<shift>",
             "<super>"
